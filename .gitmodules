@@ -1,0 +1,6 @@
+[submodule "sources/guoshen"]
+	path = sources/guoshen
+	url = https://github.com/qiqi-huang-ai/guoshen.git
+[submodule "sources/dbskill"]
+	path = sources/dbskill
+	url = https://github.com/qiqi-huang-ai/dbskill.git

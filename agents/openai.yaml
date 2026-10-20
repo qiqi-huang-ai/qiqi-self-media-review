@@ -1,0 +1,6 @@
+interface:
+  display_name: "奇其·自媒体过审"
+  short_description: "联合 DBS 与成片证据，审核四个平台发布风险"
+  default_prompt: "用 $qiqi-self-media-review 审核这份自媒体内容，给出具体风险位置和最小修改建议。"
+policy:
+  allow_implicit_invocation: true
